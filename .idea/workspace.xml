@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bf2fdef-ab65-424b-ae12-d8b40c684710" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MavenAuto" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QbMfkAl4qQPzu36dtmNO29bR15" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/Resources/BrowserDriver" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="RegisterAuto" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\achar\IdeaProjects\MavenAuto\src\main\Resources\BrowserDriver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.Maven5Test">
+    <configuration name="Maven5Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenAuto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RegisterAuto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="RegisterAuto" />
+      <option name="MAIN_CLASS_NAME" value="RegisterAuto.Maven5Test" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Maven5Test.userShouldBeAbleToAddTwoProductTwoBasket" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenAuto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RegisterAuto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="RegisterAuto" />
+      <option name="MAIN_CLASS_NAME" value="RegisterAuto.Maven5Test" />
+      <option name="METHOD_NAME" value="userShouldBeAbleToAddTwoProductTwoBasket" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Maven5Test.userShouldBeAbleToFilterJewelryByPrice" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenAuto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RegisterAuto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="RegisterAuto" />
+      <option name="MAIN_CLASS_NAME" value="RegisterAuto.Maven5Test" />
+      <option name="METHOD_NAME" value="userShouldBeAbleToFilterJewelryByPrice" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Maven5Test.userShouldBeAbleToNavigateCameraAndPhotoPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenAuto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RegisterAuto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="RegisterAuto" />
+      <option name="MAIN_CLASS_NAME" value="RegisterAuto.Maven5Test" />
+      <option name="METHOD_NAME" value="userShouldBeAbleToNavigateCameraAndPhotoPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Maven5Test.userShouldBeAbleToRegisterAndEmailaFriendToReferaProductAppleMacBook" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenAuto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RegisterAuto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="RegisterAuto" />
+      <option name="MAIN_CLASS_NAME" value="RegisterAuto.Maven5Test" />
+      <option name="METHOD_NAME" value="userShouldBeAbleToRegisterAndEmailaFriendToReferaProductAppleMacBook" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Maven5Test" />
+        <item itemvalue="TestNG.Maven5Test.userShouldBeAbleToAddTwoProductTwoBasket" />
+        <item itemvalue="TestNG.Maven5Test.userShouldBeAbleToFilterJewelryByPrice" />
+        <item itemvalue="TestNG.Maven5Test.userShouldBeAbleToNavigateCameraAndPhotoPage" />
+        <item itemvalue="TestNG.Maven5Test.userShouldBeAbleToRegisterAndEmailaFriendToReferaProductAppleMacBook" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bf2fdef-ab65-424b-ae12-d8b40c684710" name="Default Changelist" comment="" />
+      <created>1568034947570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568034947570</updated>
+    </task>
+    <servers />
+  </component>
+</project>
